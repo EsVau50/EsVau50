@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on starting a scalable business
 - 📫 How to reach me: here
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I am not 50 years old, a bit older
+- ⚡ Fun fact: I am not 50 years old
 
 <!---
 EsVau50/EsVau50 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
